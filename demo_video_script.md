@@ -1,0 +1,29 @@
+# 🎬 MARSBOUND: 90-Second Demo Video Script
+## Mandatory Deliverable 03 (Recorded Demonstration: 1–2 Minutes)
+### ASTRA 2026 Space Hackathon — VIT Bhopal University
+
+> **Target Duration:** 1 Minute 30 Seconds (90 Seconds)  
+> **Resolution / Setup:** Fullscreen browser recording of `index.html` at 1080p.  
+> **Tone:** Confident, professional, aerospace engineer presentation.
+
+---
+
+### Timeline & Voiceover Script
+
+| Time | On-Screen Action | Spoken Voiceover Script |
+|---|---|---|
+| **0:00 – 0:15**<br>*(15 sec)* | **Show Header & Tab 1 (Pre-Launch Decision Matrix)**<br>• Point out the live IST / UTC clocks.<br>• Hover over the 4 subsystem cards.<br>• Highlight the glowing green **"GO FOR LAUNCH"** badge. | *"Hello judges. Welcome to **MARSBOUND**, an aerospace mission control and satellite intelligence platform built for ASTRA 2026. Rather than relying on unexplainable black-box AI, our system implements 100% deterministic physics and ISRO Launch Commit Criteria across four national portals: Bhuvan, MOSDAC, Bhoonidhi, and VEDAS."* |
+| **0:15 – 0:30**<br>*(15 sec)* | **Demonstrate Anomaly Sandbox (Interactive LCC Rules)**<br>• In the test panel, click **"Wind Shear Anomaly"**.<br>• Notice the master badge instantly turns flashing red **"HOLD / NO-GO"** and displays the violation banner.<br>• Click it again to reset to nominal (Green). | *"Here in our deterministic LCC engine, we evaluate MOSDAC wind shear, INSAT-3D cloud temperatures, cryo tank pressure, and Bhoonidhi debris clearance. If we simulate an anomaly—such as upper wind shear exceeding structural limits—the system immediately aborts countdown and locks into a HOLD with clear telemetry violation logging."* |
+| **0:30 – 0:50**<br>*(20 sec)* | **Launch Countdown & Ascent Flight Dynamics**<br>• Click **"START COUNTDOWN"**.<br>• Switch to **Tab 2: Ascent & Flight Dynamics**.<br>• Watch the rocket ascend from Sriharikota, showing the gravity turn over the Bay of Bengal, Max-Q milestone, and live speed/altitude charts. | *"With all criteria nominal, we initiate the Automated Launch Sequence. Our 3-stage physics engine models an ISRO LVM3 vehicle ascending from Sriharikota over the Bay of Bengal. Notice real-time calculations for Mach number, dynamic pressure peaking at Max-Q, aerodynamic shock heating, and stage separations with continuous tracking telemetry."* |
+| **0:50 – 1:10**<br>*(20 sec)* | **Orbital Ground Track Map**<br>• Switch to **Tab 3: Orbital Trajectory**.<br>• Show the interactive Leaflet map with the animated satellite and its 400 km sensor swath moving over India.<br>• Point out tracking ground stations (SDSC SHAR, Bengaluru, Port Blair, IDSN Byalalu). | *"Upon orbital insertion at 450 km Sun-Synchronous Orbit, our geospatial tracker displays the satellite's ground track, line-of-sight acquisition by the Indian Deep Space Network 32-meter dish at Byalalu, 2,400 Watts of solar panel power generation, and its real-time Earth observation swath."* |
+| **1:05 – 1:20**<br>*(15 sec)* | **On-Orbit Satellite Work (The 4 ISRO Portals)**<br>• Switch to **Tab 4: Earth Science Lab**.<br>• Drag the NIR/Red sliders to show live **NDVI** (crop health) and **NDWI** (flood inundation).<br>• Show the MOSDAC cyclone tracker and Bhuvan emergency dispatch button. | *"In our Earth science lab, multi-spectral reflectance computes real-time NDVI for crop stress and NDWI for flood mapping; MOSDAC tracks cyclonic storm Midhili; and Bhuvan maps 41,000 hectares of flood zones with one-click disaster dispatch."* |
+| **1:15 – 1:30**<br>*(15 sec)* | **Mars Mission (MARSBOUND Orbiter • Payloads • Candidate Spots)**<br>• Switch to **Tab 5: Mars Mission**.<br>• Drag timeline slider across the 297-day cruise.<br>• Toggle through the 4 MARSBOUND payloads: **MENCA**, **MCC**, **MSM**, and **TIS**.<br>• Demonstrate the MCDA Candidate Spots decision engine (Jezero Crater, Oxia Planum). | *"Next, we simulate our MARSBOUND mission to Mars! We model a 297-day Lambert heliocentric transfer with IDSN Byalalu 32m deep-space tracking. In orbit, we operationalize MENCA neutral spectrometry, MCC surface albedo, MSM 3.3-micron methane detection, and TIS thermal inertia mapping to evaluate candidate landing spots."* |
+| **1:30 – 1:45**<br>*(15 sec)* | **Feedback Loop 6: Mars Target Map, Rover Positioning & Risk Summary**<br>• Switch to **Tab 6: Feedback Loop**.<br>• Show the interactive Tactical Radar Map with terrain elevation contours, landing ellipse, and safe traverse corridor.<br>• Click **"Inject Position Drift (+2.5m)"** to show the closed-loop error vector, then click **"Execute Autonomous Closed-Loop Re-centering"**.<br>• Review the 6-domain Operational Risk Summary and simulate risk hazards. | *"In Tab 6: Feedback Loop, we integrate real-time target rover positioning with interactive Martian surface maps and a closed-loop guidance controller. When we inject an obstacle perturbation or drift, our 10 Hz TRN feedback loop instantly detects the cross-track error and computes an adaptive correction vector, all while continuously evaluating our 6-domain operational risk matrix."* |
+| **1:45 – 1:55**<br>*(10 sec)* | **Rover Surface Science Timeline & Official Mission Report**<br>• Switch to **Tab 7: Rover Surface Science Timeline**.<br>• Scrub across Sols 0–120 (Chandrayaan-3 Pragyan-heritage APXS chemistry, Sol 42 subsurface water ice discovery).<br>• Switch to **Tab 8: Mission Report** and click **"DOWNLOAD OFFICIAL REPORT"**. | *"Finally, our rover science timeline models Sol-by-Sol exploration including subsurface water ice detection at 1.2 meters, culminating in an automated, downloadable ISRO mission report dossier. Thank you!"* |
+
+---
+
+### Tips for Recording:
+1. Use **OBS Studio** or Windows Game Bar (`Win + G`) to record the screen.
+2. Speak clearly with a steady pace following the timestamps.
+3. Keep the video between 1:20 and 1:40 (well within the 1-2 minute guideline).
